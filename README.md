@@ -7,3 +7,4 @@
 
 ![Anurag's GitHub stats](https://readme-stats-git-master-triggerjames.vercel.app/api?username=TriggerJames&show_icons=true&theme=radical)
 
+[(Back to top)](###Languages-and-Tools:)
