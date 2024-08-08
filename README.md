@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋. I go by the name TriggerJames.</h1>
+<h1 align="center">Code name TriggerJames.</h1>
 <h3 align="center">WELCOME TO MY PROFILE.</h3>
 
 ### Languages and Tools:
