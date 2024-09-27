@@ -7,5 +7,5 @@
 
 ![TriggerJames GitHub Stats](https://readme-stats-triggerjames-projects-sigma-five.vercel.app/api?username=TriggerJames&show_icons=true&theme=radical)
 <details>
-<img align="left" alt="Trigger James Stats" src="https://readme-stats-triggerjames-projects.vercel.app/api?username=TriggerJames&show_icons=true&hide_border=true" />
+<img align="left" alt="Trigger James Stats" src="https://readme-stats-triggerjames-projects-sigma-five.vercel.app/api?username=TriggerJames&show_icons=true&hide_border=true" />
 </details>
